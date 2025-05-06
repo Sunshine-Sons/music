@@ -5,7 +5,7 @@ Am
    The heavens cry when you're sad
 Dm7
 When you're mad thunder shakes the ground
-F                  	                  Fm
+F                  	                   Fm
 When you're in love rainbows paint the sky
 
 ----- (Chorus)
@@ -19,17 +19,17 @@ G7
   	        Ohhhhh
 
 ----- (Verse 2, B Section)
-C             Cmaj7
+C            Cmaj7
  Weatherman       Skies are
 Bdim  	     E7
 blue              your soul shines
-Am            Am7
+Am           Am7
 through           Don't be    
 Edim  	     A7
 sad      	      Don't be
 Dm    	     Dm7
-mad         	      Be
-Gm7           C7sus4   C7
+mad         	     Be
+Gm7          C7sus4   C7
 happy
 F                                 Fmaj7
 Paint the sky blue with you eyes again
@@ -53,15 +53,15 @@ F                  	     Fm
 >>>>(Repeat chorus)
 
 ----- (Verse 4 / Instrument break, B Section)
-C                       Cmaj7
+C              Cmaj7
  Weatherman
 Bdim  	       E7
 Am             Am7  
 Edim  	       A7
 Dm    	       Dm7
-Gm7           C7sus4   C7
-F                 Fmaj7
-Fmaj7        Bm7b5
+Gm7            C7sus4   C7
+F              Fmaj7
+Fmaj7          Bm7b5
 
 ----- (Chorus)
 >>>>(Repeat chorus)
@@ -78,6 +78,6 @@ D7
    Believe in your dreams
 G7
    Look up to the sky   ohhh
-C               Bdim
+C             Bdim
   Weatherman
 C
