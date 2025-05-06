@@ -4,9 +4,9 @@ C
 Am
    The heavens cry when you're sad
 Dm7
- When you're mad thunder shakes the ground
-F                  	                   Fm
- When you're in love rainbows paint the sky
+When you're mad thunder shakes the ground
+F                  	                  Fm
+When you're in love rainbows paint the sky
 ----- (Chorus)
 E7
    Believe in your dreams
@@ -15,71 +15,60 @@ Am7
 D7
    This world was made for you
 G7
-  	     Ohhhhh
------ (Verse 2)
-C               Cmaj7
- Weatherman         Skies are
-Bdim  	       E7
- blue              your soul shines
-Am             Am7
- through           Don't be    
-Edim  	       A7
- sad      	       Don't be
-Dm    	       Dm7
- mad         	      Be
+  	        Ohhhhh
+----- (Verse 2, B Section)
+C             Cmaj7
+ Weatherman       Skies are
+Bdim  	     E7
+blue              your soul shines
+Am            Am7
+through           Don't be    
+Edim  	     A7
+sad      	      Don't be
+Dm    	     Dm7
+mad         	      Be
 Gm7           C7sus4   C7
- happy
-F                                  Fmaj7
-Paint the sky blue with you  eyes again
-Fmaj7     	         Bm7b5
- never let it rain  again
+happy
+F                                 Fmaj7
+Paint the sky blue with you eyes again
+Fmaj7     	        Bm7b5
+never let it rain  again
 ----- (Chorus)
-E7
-   Believe in your dreams
-Am7
-   Look up to the sky
-D7
-   This world was made for you
-G7
-  	    Ohhhhh  
+>>>>(Repeat chorus)
 ----- (Verse 3)	 
 C
    The clouds billow when you're hurting
 Am
    Hail falls when your sad
 Dm7
-  Sun shines when your happy
-F                  	 Fm
-  Love fills you up  again
+Sun shines when your happy
+F                  	     Fm
+  And love fills you up  again
 ----- (Chorus)
-E7
-   Believe in your dreams
-Am7
-   Look up to the sky
-D7
-   This world was made for you
-G7
-  	    Ohhhhh  
------ (Verse 4 / Instrument break)
-C              Cmaj7
+>>>>(Repeat chorus)
+----- (Verse 4 / Instrument break, B Section)
+C                       Cmaj7
  Weatherman
-Bdim  	      E7
+Bdim  	       E7
 Am             Am7  
-Edim  	      A7
-Dm    	      Dm7
-Gm7            C7sus4   C7
-F              Fmaj7
-Fmaj7          Bm7b5
+Edim  	       A7
+Dm    	       Dm7
+Gm7           C7sus4   C7
+F                 Fmaj7
+Fmaj7        Bm7b5
 ----- (Chorus)
-E7
-   Believe in your dreams
-Am7
-   Look up to the sky
-D7
-   This world was made for you
-G7
-  	    Ohhhhh  
+>>>>(Repeat chorus)
+----- (Verse 1)
+>>>>(Repeat verse 1)
 ----- (Final)
-C              C    Bdim
- Weatherman
+E7
+         Ohhhhh
+Am7
+   Weatherman
+D7
+   Believe in your dreams
+G7
+   This world was made for you   ohhhh
+C               Bdim
+  Weatherman
 C
