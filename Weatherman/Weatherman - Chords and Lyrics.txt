@@ -33,7 +33,7 @@ Gm7          C7sus4   C7
 happy
 F                                 Fmaj7
 Paint the sky blue with you eyes again
-Fmaj7     	        Bm7b5
+Fmaj7     	        B7b5
 never let it rain  again
 
 ----- (Chorus)
@@ -43,7 +43,7 @@ never let it rain  again
 C
    The clouds billow when you're hurting
 Am
-   Hail falls when your sad
+   Hail falls when your mad
 Dm7
 Sun shines when your happy
 F                  	     Fm
@@ -61,7 +61,7 @@ Edim  	       A7
 Dm    	       Dm7
 Gm7            C7sus4   C7
 F              Fmaj7
-Fmaj7          Bm7b5
+Fmaj7          B7b5
 
 ----- (Chorus)
 >>>>(Repeat chorus)
