@@ -1,77 +1,85 @@
-Weatherman - Eric Thortsen - May 2025
------ (Verse 1)
+----- (Verse 1)                                                           Weatherman - Eric Thortsen - May 2025
 C
- The sun shines when you're happy
+   The sun shines when you're happy
 Am
- The heavens cry when you're sad
-Dm
+   The heavens cry when you're sad
+Dm7
  When you're mad thunder shakes the ground
-F                  	Fm
- When you're in love a rainbow paints the sky
-
+F                  	                         Fm
+ When you're in love rainbows paint the sky
 ----- (Chorus)
 E7
- Believe in your dreams
+   Believe in your dreams
 Am7
- Look up to the sky
+   Look up to the sky
 D7
- This world was made for you
+   This world was made for you
 G7
-  	Ohhhhh
-
+  	     Ohhhhh
 ----- (Verse 2)
-C
- Weather man
-Cmaj7
-                     Skies are
-Bdim  	E7
- blue         and your soul shines
-Am
- through
-Am7
-    	 Don't be    
-Edim  	A7
- Sad      	don't be
-Dm    	Dm7
- Mad         	be
-Gm7    C7sus4   C7
+C                       Cmaj7
+ Weather man        Skies are
+Bdim  	       E7
+ blue              and your soul shines
+Am             Am7
+ through           Don't be    
+Edim  	       A7
+ sad      	Don't be
+Dm    	       Dm7
+ mad         	      Be
+Gm7           C7sus4   C7
  happy
-F
- Paint the sky blue with your
-Fmaj7
- eyes again
-Fmaj7     	        Bm7b5
- never let it rain again
+F                                            Fmaj7
+  Paint the sky blue with you  eyes again
+Fmaj7     	       Bm7b5
+     never let it rain  again
 ----- (Chorus)
 E7
- Believe in your dreams
+   Believe in your dreams
 Am7
- Look up to the sky
+   Look up to the sky
 D7
- This world was made for you
+   This world was made for you
 G7
-  	Ohhhhh  
-
+  	    Ohhhhh  
 ----- (Verse 3)	 
 C
- The clouds billow when you're hurting
+   The clouds billow when you're hurting
 Am
- The hail falls when your sad
+   Hail falls when your sad
 Dm7
  Sun shines when your happy
-F                  	Fm
- And love fills you up again
-
+F                  	      Fm
+  Love fills you up  again
 ----- (Chorus)
 E7
- Believe in your dreams
+   Believe in your dreams
 Am7
- Look up to the sky
+   Look up to the sky
 D7
- This world was made for you
+   This world was made for you
 G7
-  	Ohhhhh  
+  	    Ohhhhh  
+----- (Verse 4 / Instrument break)
+C                       Cmaj7
+ Weather man
+Bdim  	       E7
+Am             Am7  
+Edim  	       A7
+Dm    	       Dm7
+Gm7           C7sus4   C7
+F                 Fmaj7
+Fmaj7        Bm7b5
+----- (Chorus)
+E7
+   Believe in your dreams
+Am7
+   Look up to the sky
+D7
+   This world was made for you
+G7
+  	    Ohhhhh  
 ----- (Final)
-C
-  Weather man
+C                              G
+ Weatherman
 C
